@@ -37,18 +37,18 @@ export const projects: Project[] = [
     description: 'A responsive portfolio website built with React and Tailwind CSS. Features include smooth scrolling, dark/light mode, project showcase, and contact form.',
     image: 'https://images.pexels.com/photos/196645/pexels-photo-196645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     tags: ['React', 'Tailwind CSS', 'TypeScript'],
-    liveUrl: 'https://example.com/portfolio',
-    githubUrl: 'https://github.com/yourusername/portfolio',
+    liveUrl: 'https://johnportifolio.netlify.app/',
+    githubUrl: 'https://github.com/johnchegesheriff/dev-prtifolio-website',
     featured: false
   },
   {
     id: '5',
-    title: 'Fitness Tracker',
+    title: 'Trading platform',
     description: 'A fitness application that allows users to track workouts, set goals, and view progress over time. Built with React Native for cross-platform mobile use.',
     image: 'https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     tags: ['React Native', 'Redux', 'Firebase', 'Expo'],
-    liveUrl: 'https://example.com/fitness',
-    githubUrl: 'https://github.com/yourusername/fitness',
+    liveUrl: 'https://tradingplartform.netlify.app/',
+    githubUrl: 'https://github.com/johnchegesheriff/trading-plartfom',
     featured: true
   },
   {

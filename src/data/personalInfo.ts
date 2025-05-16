@@ -4,7 +4,7 @@ export const personalInfo = {
   name: 'John Macharia',
   title: 'Software Engineer',
   description: 'Passionate software engineer with 7+ years of experience specializing in full-stack development. I build scalable, user-friendly applications with modern technologies and best practices.',
-  location: 'San Francisco, CA',
+  location: 'Nairobi, Kenya',
   email: 'machariachege20@gmail.com',
   resumeUrl: '/resume.pdf'
 };
@@ -12,7 +12,7 @@ export const personalInfo = {
 export const socialLinks: SocialLink[] = [
   {
     name: 'GitHub',
-    url: 'https://github.com/yourusername',
+    url: 'https://github.com/johnchegesheriff',
     icon: 'github'
   },
   {
