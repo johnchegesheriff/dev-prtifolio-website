@@ -17,8 +17,8 @@ export const projects: Project[] = [
     description: 'A productivity application built with React and Firebase. Features include task creation, due dates, priority levels, categorization, and real-time updates.',
     image: 'https://images.pexels.com/photos/6804581/pexels-photo-6804581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     tags: ['React', 'Firebase', 'Tailwind CSS', 'TypeScript'],
-    liveUrl: 'https://example.com/taskmanager',
-    githubUrl: 'https://github.com/yourusername/taskmanager',
+    liveUrl: ' https://freshgo-app.vercel.app/',
+    githubUrl: 'https://github.com/johnchegesheriff/Freshgo-app',
     featured: true
   },
   {
