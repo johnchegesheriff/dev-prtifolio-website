@@ -13,8 +13,8 @@ export const projects: Project[] = [
   },
   {
     id: '2',
-    title: 'Task Management App',
-    description: 'A productivity application built with React and Firebase. Features include task creation, due dates, priority levels, categorization, and real-time updates.',
+    title: 'Grocery shopping app',
+    description: 'freshGo is a modern grocery shopping website designed to enhance your shopping experience. With features like recipe generation, a shopping cart, and item filtering, freshGo makes grocery shopping efficient and enjoyable. Additionally, users can discover drink recipes to complement their meals.',
     image: 'https://images.pexels.com/photos/6804581/pexels-photo-6804581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     tags: ['React', 'Firebase', 'Tailwind CSS', 'TypeScript'],
     liveUrl: ' https://freshgo-app.vercel.app/',
@@ -44,7 +44,7 @@ export const projects: Project[] = [
   {
     id: '5',
     title: 'Trading platform',
-    description: 'A fitness application that allows users to track workouts, set goals, and view progress over time. Built with React Native for cross-platform mobile use.',
+    description: 'A trading platform that allows users to track and analyse your trades and view progress over time. Built with React Native for cross-platform mobile use.',
     image: 'https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     tags: ['React Native', 'Redux', 'Firebase', 'Expo'],
     liveUrl: 'https://tradingplartform.netlify.app/',
